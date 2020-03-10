@@ -1,0 +1,86 @@
+[
+	{
+		"id": 1,
+		"name": "Bread",
+		"cost": 10,
+		"calories": 100,
+		"weight": 200
+	},
+	{
+		"id": 2,
+		"name": "Cheese",
+		"cost": 15,
+		"calories": 100,
+		"weight": 200
+	},
+	{
+		"id": 3,
+		"name": "Soda",
+		"cost": 8,
+		"calories": 100,
+		"weight": 200
+	},
+	{
+		"id": 4,
+		"name": "Hershey's",
+		"cost": 30,
+		"calories": 300,
+		"weight": 100
+	},
+	{
+		"id": 5,
+		"name": "Skittles",
+		"cost": 18,
+		"calories": 170,
+		"weight": 410
+	},
+	{
+		"id": 6,
+		"name": "Nachos",
+		"cost": 20,
+		"calories": 140,
+		"weight": 100
+	},
+	{
+		"id": 7,
+		"name": "Egg",
+		"cost": 6,
+		"calories": 30,
+		"weight": 15
+	},
+	{
+		"id": 8,
+		"name": "Lays",
+		"cost": 2,
+		"calories": 410,
+		"weight": 100
+	},
+	{
+		"id": 9,
+		"name": "Mineral Water",
+		"cost": 1,
+		"calories": 0,
+		"weight": 1000
+	},
+	{
+		"id": 10,
+		"name": "Maggie",
+		"cost": 4,
+		"calories": 410,
+		"weight": 75
+	},
+	{
+		"id": 11,
+		"name": "Ketchup",
+		"cost": 14,
+		"calories": 1254,
+		"weight": 1000
+	},
+	{
+		"id": 12,
+		"name": "Franky",
+		"cost": 11,
+		"calories": 365,
+		"weight": 65
+	}
+]
